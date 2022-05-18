@@ -1,0 +1,7 @@
+I know from previous experience that > is piping so it feeds the result from "ls" into "newfile.txt" (it creates said file if need be, which is the change in what "ls" returns after this command)
+
+The "git add" command basically makes pending changes to the repo (which you push with "git commit") (also these are the changes you see when you run "git status")
+
+It says that "newfile.txt" is a change needing to be committed which just means you should push it to make the edit on the github servers
+
+The "git diff" command shows changes, like what you would see in the changelog of a standard repo
